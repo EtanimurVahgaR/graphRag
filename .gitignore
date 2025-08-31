@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# Logs
+*.log
+logs/
+*.out
+*.err
+
+# Database / vector store
+chromadb_data/
+*.sqlite
+*.db
+
+# IDE / editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python packaging / build
+*.egg-info/
+dist/
+build/
+*.egg
+*.whl
+
+# Cache
+*.cache
+.cache/
+*.pytest_cache/
+.ipynb_checkpoints/
+
+# uv package manager specific files
+.uv/                  # uv creates this folder for project metadata
+.uv.lock              # lock file created by uv

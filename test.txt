@@ -1,0 +1,5 @@
+the subjects i am working on are : 
+    1. compiler design
+    2. deep learning 
+    3. quantum computing 
+    
